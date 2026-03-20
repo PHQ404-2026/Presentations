@@ -1,0 +1,7 @@
+[project]
+name = "introduction-mp"
+version = "0.1.0"
+description = "Introduction to multiprocessing"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
